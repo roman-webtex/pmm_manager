@@ -1,0 +1,1033 @@
+<?xml version="1.0"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="343" uniqueCount="343">
+    <si>
+        <t xml:space="preserve">Дата запису</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Найменування документа</t>
+    </si>
+    <si>
+        <t xml:space="preserve">№ документа</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Дата документа</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Постачальник (одержувач)</t>
+    </si>
+    <si>
+        <t xml:space="preserve">За в/ч А7015</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Склад</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Всього за підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Склад В/Ч</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ПСП</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Надійшло</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Вибуло</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Усього</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Надійшло</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Вибуло</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Усього</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Усього</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ПВЗ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ЗРАДН</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">2САДН</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">1САДН</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Ремонтна рота</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">МЕХБАТ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">2ТБ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">3ТБ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ІСР</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">БМТЗ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Медична рота</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">БУАР</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Розвідувальна рота</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">РХБЗ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Комендантський взвод</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">РЕАБАТ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">1СБ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">2СБ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">РУБАК</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">РВП</t>
+    </si>
+    <si>
+        <t xml:space="preserve">л.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">кг.</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Початкові значення</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Початкові значення</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Початкові значення</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Початкові значення</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Початкові значення</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Початкові значення</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Початкові значення</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Початкові значення</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">9</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Донесення</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">9</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Донесення</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">9</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Донесення</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">9</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Донесення</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ТЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">48/156</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А0139</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Накладна</t>
+    </si>
+    <si>
+        <t xml:space="preserve">б/н</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Склад ПММ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5/1</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5/1</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5/1</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5/1</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5/1</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5/1</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">23.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Зведена відомість</t>
+    </si>
+    <si>
+        <t xml:space="preserve">5/1</t>
+    </si>
+    <si>
+        <t xml:space="preserve">22.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Підрозділи</t>
+    </si>
+    <si>
+        <t xml:space="preserve">24.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Д 013/000064</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А1361</t>
+    </si>
+    <si>
+        <t xml:space="preserve">24.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Д/000147/039</t>
+    </si>
+    <si>
+        <t xml:space="preserve">21.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А4789</t>
+    </si>
+    <si>
+        <t xml:space="preserve">24.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Д/035/000147</t>
+    </si>
+    <si>
+        <t xml:space="preserve">21.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А4789</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Накладна</t>
+    </si>
+    <si>
+        <t xml:space="preserve">251</t>
+    </si>
+    <si>
+        <t xml:space="preserve">13.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">РВП</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Накладна</t>
+    </si>
+    <si>
+        <t xml:space="preserve">251</t>
+    </si>
+    <si>
+        <t xml:space="preserve">13.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">РВП</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Накладна</t>
+    </si>
+    <si>
+        <t xml:space="preserve">263</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">РВП</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Накладна</t>
+    </si>
+    <si>
+        <t xml:space="preserve">263</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">РВП</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Накладна</t>
+    </si>
+    <si>
+        <t xml:space="preserve">269</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">БМТЗ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Накладна</t>
+    </si>
+    <si>
+        <t xml:space="preserve">269</t>
+    </si>
+    <si>
+        <t xml:space="preserve">20.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">БМТЗ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ТЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">32/147</t>
+    </si>
+    <si>
+        <t xml:space="preserve">16.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А4638</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ТЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">42/147</t>
+    </si>
+    <si>
+        <t xml:space="preserve">06.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А4648</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ТЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">43/147</t>
+    </si>
+    <si>
+        <t xml:space="preserve">14.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А4667</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Д 013/000064</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А1361</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Д/000147/039</t>
+    </si>
+    <si>
+        <t xml:space="preserve">21.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А4789</t>
+    </si>
+    <si>
+        <t xml:space="preserve">25.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Д/035/000147</t>
+    </si>
+    <si>
+        <t xml:space="preserve">21.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А4789</t>
+    </si>
+    <si>
+        <t xml:space="preserve">26.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Д/000147/039</t>
+    </si>
+    <si>
+        <t xml:space="preserve">21.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А4789</t>
+    </si>
+    <si>
+        <t xml:space="preserve">26.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Д/035/000147</t>
+    </si>
+    <si>
+        <t xml:space="preserve">21.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А4789</t>
+    </si>
+    <si>
+        <t xml:space="preserve">27.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Д/035/000147</t>
+    </si>
+    <si>
+        <t xml:space="preserve">21.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А4789</t>
+    </si>
+    <si>
+        <t xml:space="preserve">28.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Д/035/000147</t>
+    </si>
+    <si>
+        <t xml:space="preserve">21.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А4789</t>
+    </si>
+    <si>
+        <t xml:space="preserve">31.05.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">ЧВ</t>
+    </si>
+    <si>
+        <t xml:space="preserve">Д/000147/039</t>
+    </si>
+    <si>
+        <t xml:space="preserve">21.04.2024</t>
+    </si>
+    <si>
+        <t xml:space="preserve">А4789</t>
+    </si>
+</sst>
+

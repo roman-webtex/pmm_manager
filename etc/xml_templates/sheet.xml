@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:xdr="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing" xmlns:x14="http://schemas.microsoft.com/office/spreadsheetml/2009/9/main" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <dimension/>
+    <sheetViews>
+        <sheetView showFormulas="false" showGridLines="true" showRowColHeaders="true" showZeros="true" rightToLeft="false" tabSelected="true" showOutlineSymbols="true" defaultGridColor="true" view="normal" topLeftCell="A1" colorId="64" zoomScale="75" zoomScaleNormal="75" zoomScalePageLayoutView="75" workbookViewId="0"></sheetView>
+    </sheetViews>
+    <sheetFormatPr defaultColWidth="11.53515625" defaultRowHeight="20" zeroHeight="false" outlineLevelRow="0" outlineLevelCol="0"/><cols></cols><sheetData></sheetData><mergeCells></mergeCells>
+    <pageMargins left="0.7875" right="0.7875" top="1.05277777777778" bottom="1.05277777777778" header="0.7875" footer="0.7875"/>
+    <pageSetup paperSize="9" scale="70" fitToWidth="0" fitToHeight="1" pageOrder="downThenOver" orientation="portrait" blackAndWhite="true" draft="false" cellComments="none" firstPageNumber="1" useFirstPageNumber="true" horizontalDpi="300" verticalDpi="300" copies="1"/>
+    <headerFooter differentFirst="false" differentOddEven="false">
+        <oddHeader>&amp;C&amp;"Times New Roman,Звичайний"&amp;12&amp;A</oddHeader>
+        <oddFooter>&amp;C&amp;"Times New Roman,Звичайний"&amp;12Сторінка &amp;P</oddFooter>
+    </headerFooter>
+</worksheet>
+

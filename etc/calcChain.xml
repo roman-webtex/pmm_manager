@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<calcChain xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+    <c r="Y8" i="1" l="1"/>
+    <c r="W8" i="1"/>
+    <c r="U8" i="1"/>
+    <c r="S8" i="1"/>
+    <c r="Q8" i="1"/>
+    <c r="O8" i="1"/>
+    <c r="M7" i="1"/>
+    <c r="Y6" i="1"/>
+    <c r="X6" i="1"/>
+    <c r="X8" i="1" s="1"/>
+    <c r="W6" i="1"/>
+    <c r="V6" i="1"/>
+    <c r="V8" i="1" s="1"/>
+    <c r="U6" i="1"/>
+    <c r="T6" i="1"/>
+    <c r="T8" i="1" s="1"/>
+    <c r="S6" i="1"/>
+    <c r="R6" i="1"/>
+    <c r="R8" i="1" s="1"/>
+    <c r="Q6" i="1"/>
+    <c r="P6" i="1"/>
+    <c r="P8" i="1" s="1"/>
+    <c r="O6" i="1"/>
+    <c r="N6" i="1"/>
+    <c r="N8" i="1" s="1"/>
+    <c r="L6" i="1"/>
+    <c r="K6" i="1"/>
+    <c r="K7" i="1" s="1"/>
+    <c r="H7" i="1" s="1"/>
+    <c r="G6" i="1"/>
+    <c r="F6" i="1"/>
+    <c r="M5" i="1"/>
+    <c r="M6" i="1" s="1"/>
+    <c r="K5" i="1"/>
+    <c r="H5" i="1" s="1"/>
+    <c r="H6" i="1" s="1"/>
+</calcChain>

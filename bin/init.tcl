@@ -1,0 +1,9 @@
+set ::windows_prefix "S:"
+set ::unix_prefix "/home/roman/share"
+set ::db_engine mysql
+set ::db_host 192.168.1.10
+set ::db_port 3306
+set ::db_name oblik_pmm
+set ::db_user ""
+set ::db_password ""
+set ::show_minus 1
